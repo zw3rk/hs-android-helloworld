@@ -151,3 +151,6 @@ google-services.json
 
 # End of https://www.gitignore.io/api/java,androidstudio
 app/hs-libs
+arm64-v8a
+armeabi-v7a
+/**/hs/*_stub.h
